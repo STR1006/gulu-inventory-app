@@ -1,1 +1,0 @@
-# gulu-inventory-app
